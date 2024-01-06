@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lilboyspirit
+- 👀 Interested in Data Science and Integrated systems
+- 🛠️ Currently using @rust-lang
+- 📫 Reach me at spirit@programmer.net
